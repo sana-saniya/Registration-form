@@ -58,7 +58,7 @@ src
 1. Clone the repository
 
 ```bash id="l9pf06"
-git clone <your-repo-link>
+git clone (https://github.com/sana-saniya/Registration-form)
 ```
 
 2. Navigate to project folder
